@@ -1,0 +1,43 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Audio output & downloads
+output/
+downloads/
+songs/
+*.mp3
+*.m4a
+*.webm
+*.opus
+*.wav
+*.part
+*.ytdl
+
+# Personal playlists, links and test artifacts
+*.csv
+*.json
+*.txt
+!requirements.txt
+Spotify_YouTube_Links/
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
